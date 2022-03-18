@@ -1,0 +1,41 @@
+[{
+  "_id": {
+    "$oid": "6221d60d8c6ca92671964734"
+  },
+  "name": "Irvan Surya Nugraha",
+  "email": "irvansurya1@gmail.com",
+  "phoneNumber": "082139113940",
+  "password": "$2b$10$ZjLvkDwpX7y16ab2RxyaAewS89IYq1Dq145R9CZOdQKaz/znBupx.",
+  "role": "super-admin",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "622f10e409c9ea25191c0a44"
+  },
+  "name": "Ryan Adi",
+  "email": "ryan@semicolon.coffee",
+  "phoneNumber": "08218829399",
+  "password": "$2b$10$XJrC35fLmlhVSpZcmefvQOevROHOI3VFvQ1Te/2Oj7nYT7Ogzo9xO",
+  "role": "super-admin",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "622f3a78a1a083b7c8e100c6"
+  },
+  "name": "Irvan Surya Nugraha",
+  "email": "irvan@semicolon.coffee",
+  "phoneNumber": "08218829399",
+  "password": "$2b$10$ZDQ/lxscPrZl7f3QctjEBehBPihlppl3RgqY3dRHXMikVdbSQyLAm",
+  "role": "super-admin",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "622f40cb2564548067d11f9c"
+  },
+  "name": "Akun Demo",
+  "email": "demo@titikoma.coffee",
+  "phoneNumber": "08218829399",
+  "password": "$2b$10$3J0ZcKSLAaCYL7H.f8LuU.qECT/qn9DTmum5RPYmi0dm0o3i6IHS2",
+  "role": "super-admin",
+  "__v": 0
+}]

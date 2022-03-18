@@ -1,0 +1,61 @@
+[{
+  "_id": {
+    "$oid": "622a5972267c73c856ba51c6"
+  },
+  "productId": "SEMICOLON-001",
+  "name": "Potato Wedges",
+  "description": "Potato wedges adalah irisan kentang berbentuk baji yang tidak beraturan, seringkali besar dan tidak dikupas, yang dipanggang atau digoreng.",
+  "category": {
+    "$oid": "6220ec05c7358f78107dcb59"
+  },
+  "stock": 9,
+  "status": true,
+  "price": 22500,
+  "image": "https://doc-be.erpn.us/images/1646973063582.jpg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "622a59cc267c73c856ba51ce"
+  },
+  "productId": "SEMICOLON-002",
+  "name": "Pisang Goreng",
+  "description": "Topping umum yang biasanya digunakan adalah coklat, keju, susu. Tetapi sekarang sudah banyak jenis topping lain seperti Nutella, Caramel, Oreo, Greentea.",
+  "category": {
+    "$oid": "6220ec05c7358f78107dcb59"
+  },
+  "stock": 7,
+  "status": true,
+  "price": 17500,
+  "image": "https://doc-be.erpn.us/images/1646973070024.jpeg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "622a5a56267c73c856ba51d6"
+  },
+  "productId": "SEMICOLON-003",
+  "name": "Spageti",
+  "description": "Spageti adalah salah satu jenis pasta yang berbentuk panjang, tipis, silindris, dan padat, yang jika diperhatikan menyerupai mie pada umumnya.",
+  "category": {
+    "$oid": "6220ec05c7358f78107dcb59"
+  },
+  "stock": 0,
+  "status": false,
+  "price": 21400,
+  "image": "https://doc-be.erpn.us/images/1646973082192.jpg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "622a5a88267c73c856ba51de"
+  },
+  "productId": "SEMICOLON-004",
+  "name": "Nachos",
+  "description": "Nachos merupakan cemilan khas dari Negara Meksiko, tetapi anda tidak perlu jauh-jauh ke Meksiko untuk mencicipi Nachos.",
+  "category": {
+    "$oid": "6220ec05c7358f78107dcb59"
+  },
+  "stock": 3,
+  "status": true,
+  "price": 13000,
+  "image": "https://doc-be.erpn.us/images/1646973092290.jpg",
+  "__v": 0
+}]

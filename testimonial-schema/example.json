@@ -1,0 +1,53 @@
+[{
+  "_id": {
+    "$oid": "622b45ea3e9c7e4c7f29c40b"
+  },
+  "name": "Ryan Adi",
+  "description": "Titikoma; memang terbaik, minuman dan makanan disini cukup terjangkau bagi kantong anak muda serta pelayanan yang modern, berbeda dengan kafe lain pada umumnya. Wajib datang, kalian pasti tidak akan kecewa.",
+  "createdAt": {
+    "$date": "2022-03-11T12:51:54.458Z"
+  },
+  "updatedAt": {
+    "$date": "2022-03-11T12:51:54.458Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "622b46093e9c7e4c7f29c40d"
+  },
+  "name": "Harits",
+  "description": "Sering hangout bareng temen disini dan emang suasananya asik banget. Paling suka sama Honey Pancake disini, lembut sama madunya manis semanis aku, xixixi. Pokok terdebest deh kalau kesini, recommended banget donggg.",
+  "createdAt": {
+    "$date": "2022-03-11T12:52:25.606Z"
+  },
+  "updatedAt": {
+    "$date": "2022-03-11T12:52:25.606Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "622b461e3e9c7e4c7f29c40f"
+  },
+  "name": "Iqbal",
+  "description": "Ngopi disini sambil garap kerjaan kantor memang dapat diandalkan, wifi cepet, tempat nyaman, dan pastinya ada coworking spacenya yang pasti aman. Cafe jaman now yang gua rekom buat kalian yang pingin WFH.",
+  "createdAt": {
+    "$date": "2022-03-11T12:52:46.407Z"
+  },
+  "updatedAt": {
+    "$date": "2022-03-11T12:52:46.407Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "622c2bf327240db07d9389f6"
+  },
+  "name": "Adi",
+  "description": "Mantap bgt!",
+  "createdAt": {
+    "$date": "2022-03-12T05:13:23.494Z"
+  },
+  "updatedAt": {
+    "$date": "2022-03-12T05:13:23.494Z"
+  },
+  "__v": 0
+}]

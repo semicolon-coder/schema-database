@@ -1,0 +1,306 @@
+[{
+  "_id": {
+    "$oid": "622c3a997149ae55afe5f3b1"
+  },
+  "orderId": "INV-1647065753950",
+  "status": "Proses",
+  "historyCart": [
+    {
+      "productId": "SEMICOLON-001",
+      "productName": "Potato Wedges",
+      "productPrice": 22500,
+      "qty": 3,
+      "_id": {
+        "$oid": "622c3a997149ae55afe5f3b2"
+      },
+      "total": 67500
+    },
+    {
+      "productId": "SEMICOLON-002",
+      "productName": "Pisang Goreng",
+      "productPrice": 17500,
+      "qty": 2,
+      "_id": {
+        "$oid": "622c3a997149ae55afe5f3b3"
+      },
+      "total": 35000
+    },
+    {
+      "productId": "SEMICOLON-004",
+      "productName": "Nachos",
+      "productPrice": 13000,
+      "qty": 2,
+      "_id": {
+        "$oid": "622c3a997149ae55afe5f3b4"
+      },
+      "total": 26000
+    },
+    {
+      "productId": "SEMICOLON-003",
+      "productName": "Spageti",
+      "productPrice": 21400,
+      "qty": 1,
+      "_id": {
+        "$oid": "622c3a997149ae55afe5f3b5"
+      },
+      "total": 21400
+    }
+  ],
+  "price": 149900,
+  "discount": 0,
+  "tax": 10,
+  "totalPrice": 164890,
+  "customer": {
+    "name": "Ryan Adi",
+    "email": "ryan@semicolon.coffee",
+    "phoneNumber": "082192883722"
+  },
+  "payment": {
+    "name": "GoPay",
+    "category": "E-Wallet",
+    "accountNumber": "082192883722"
+  },
+  "createdAt": {
+    "$date": "2022-03-12T06:15:53.968Z"
+  },
+  "updatedAt": {
+    "$date": "2022-03-16T18:28:04.382Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "622c3dee38292fc28bb9f1b4"
+  },
+  "orderId": "INV-1647066606708",
+  "status": "Selesai",
+  "historyCart": [
+    {
+      "productId": "SEMICOLON-001",
+      "productName": "Potato Wedges",
+      "productPrice": 22500,
+      "qty": 1,
+      "_id": {
+        "$oid": "622c3dee38292fc28bb9f1b5"
+      },
+      "total": 22500
+    },
+    {
+      "productId": "SEMICOLON-002",
+      "productName": "Pisang Goreng",
+      "productPrice": 17500,
+      "qty": 2,
+      "_id": {
+        "$oid": "622c3dee38292fc28bb9f1b6"
+      },
+      "total": 35000
+    },
+    {
+      "productId": "SEMICOLON-003",
+      "productName": "Spageti",
+      "productPrice": 21400,
+      "qty": 1,
+      "_id": {
+        "$oid": "622c3dee38292fc28bb9f1b7"
+      },
+      "total": 21400
+    }
+  ],
+  "price": 78900,
+  "discount": 5000,
+  "tax": 10,
+  "totalPrice": 81290,
+  "customer": {
+    "name": "Irvan Surya Nugraha",
+    "email": "Irvan@semicolon.coffee",
+    "phoneNumber": "082139113940"
+  },
+  "payment": {
+    "name": "QRIS",
+    "category": "E-Wallet",
+    "accountNumber": "082139113940"
+  },
+  "createdAt": {
+    "$date": "2022-03-12T06:30:06.732Z"
+  },
+  "updatedAt": {
+    "$date": "2022-03-13T05:39:22.611Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "622c80354348c8aad0382d21"
+  },
+  "orderId": "INV-1647083573296",
+  "status": "Selesai",
+  "historyCart": [
+    {
+      "productId": "SEMICOLON-001",
+      "productName": "Potato Wedges",
+      "productPrice": 22500,
+      "qty": 4,
+      "_id": {
+        "$oid": "622c80354348c8aad0382d22"
+      },
+      "total": 90000
+    },
+    {
+      "productId": "SEMICOLON-004",
+      "productName": "Nachos",
+      "productPrice": 13000,
+      "qty": 2,
+      "_id": {
+        "$oid": "622c80354348c8aad0382d23"
+      },
+      "total": 26000
+    },
+    {
+      "productId": "SEMICOLON-003",
+      "productName": "Spageti",
+      "productPrice": 21400,
+      "qty": 2,
+      "_id": {
+        "$oid": "622c80354348c8aad0382d24"
+      },
+      "total": 42800
+    }
+  ],
+  "price": 158800,
+  "discount": 0,
+  "tax": 10,
+  "totalPrice": 174680,
+  "customer": {
+    "name": "Nathanael",
+    "email": "nathanael@semicolon.coffee",
+    "phoneNumber": "082828282828"
+  },
+  "payment": {
+    "name": "ShopeePay",
+    "category": "E-Wallet",
+    "accountNumber": "082828282828"
+  },
+  "createdAt": {
+    "$date": "2022-03-12T11:12:53.309Z"
+  },
+  "updatedAt": {
+    "$date": "2022-03-13T03:06:50.979Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "622d6026c5a54b52ae5b96e0"
+  },
+  "orderId": "INV-1647140902972",
+  "status": "Proses",
+  "historyCart": [
+    {
+      "productId": "SEMICOLON-001",
+      "productName": "Potato Wedges",
+      "productPrice": 22500,
+      "qty": 4,
+      "_id": {
+        "$oid": "622d6026c5a54b52ae5b96e1"
+      },
+      "total": 90000
+    },
+    {
+      "productId": "SEMICOLON-004",
+      "productName": "Nachos",
+      "productPrice": 13000,
+      "qty": 2,
+      "_id": {
+        "$oid": "622d6026c5a54b52ae5b96e2"
+      },
+      "total": 26000
+    },
+    {
+      "productId": "SEMICOLON-003",
+      "productName": "Spageti",
+      "productPrice": 21400,
+      "qty": 2,
+      "_id": {
+        "$oid": "622d6026c5a54b52ae5b96e3"
+      },
+      "total": 42800
+    }
+  ],
+  "price": 158800,
+  "discount": 0,
+  "tax": 10,
+  "totalPrice": 174680,
+  "customer": {
+    "name": "Harits",
+    "email": "harits@semicolon.coffee",
+    "phoneNumber": "099292823342"
+  },
+  "payment": {
+    "name": "DANA",
+    "category": "E-Wallet",
+    "accountNumber": "099292823342"
+  },
+  "createdAt": {
+    "$date": "2022-03-13T03:08:22.987Z"
+  },
+  "updatedAt": {
+    "$date": "2022-03-13T05:39:18.579Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "622d7ff2ae76c904dc1ad99a"
+  },
+  "orderId": "INV-1647149042917",
+  "status": "Aktif",
+  "historyCart": [
+    {
+      "productId": "SEMICOLON-001",
+      "productName": "Potato Wedges",
+      "productPrice": 22500,
+      "qty": 4,
+      "_id": {
+        "$oid": "622d7ff2ae76c904dc1ad99b"
+      },
+      "total": 90000
+    },
+    {
+      "productId": "SEMICOLON-004",
+      "productName": "Nachos",
+      "productPrice": 13000,
+      "qty": 2,
+      "_id": {
+        "$oid": "622d7ff2ae76c904dc1ad99c"
+      },
+      "total": 26000
+    },
+    {
+      "productId": "SEMICOLON-003",
+      "productName": "Spageti",
+      "productPrice": 21400,
+      "qty": 2,
+      "_id": {
+        "$oid": "622d7ff2ae76c904dc1ad99d"
+      },
+      "total": 42800
+    }
+  ],
+  "price": 158800,
+  "discount": 0,
+  "tax": 10,
+  "totalPrice": 174680,
+  "customer": {
+    "name": "Harits",
+    "email": "harits@semicolon.coffee",
+    "phoneNumber": "099292823342"
+  },
+  "payment": {
+    "name": "DANA",
+    "category": "E-Wallet",
+    "accountNumber": "099292823342"
+  },
+  "createdAt": {
+    "$date": "2022-03-13T05:24:02.936Z"
+  },
+  "updatedAt": {
+    "$date": "2022-03-13T05:24:02.936Z"
+  },
+  "__v": 0
+}]

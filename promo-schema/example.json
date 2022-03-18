@@ -1,0 +1,31 @@
+[{
+  "_id": {
+    "$oid": "622a1df39e520eb64384e077"
+  },
+  "name": "Brady Riggs",
+  "discountValue": 3000,
+  "status": false,
+  "code": "APRARI23",
+  "startDate": {
+    "$date": "1982-09-14T17:00:00Z"
+  },
+  "expiryDate": {
+    "$date": "2011-03-07T17:00:00Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "622a2374641faee5f62eaa5d"
+  },
+  "name": "Jermaine Harding",
+  "discountValue": 123123123,
+  "status": true,
+  "code": "Laborum consequatur",
+  "startDate": {
+    "$date": "2016-07-15T17:00:00Z"
+  },
+  "expiryDate": {
+    "$date": "2010-04-28T17:00:00Z"
+  },
+  "__v": 0
+}]
