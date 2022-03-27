@@ -36,10 +36,10 @@
   "name": "Spageti",
   "description": "Spageti adalah salah satu jenis pasta yang berbentuk panjang, tipis, silindris, dan padat, yang jika diperhatikan menyerupai mie pada umumnya.",
   "category": {
-    "$oid": "6220ec05c7358f78107dcb59"
+    "$oid": "623ec2241a645ac922dd782f"
   },
-  "stock": 0,
-  "status": false,
+  "stock": 20,
+  "status": true,
   "price": 21400,
   "image": "https://doc-be.erpn.us/images/1646973082192.jpg",
   "__v": 0
@@ -57,5 +57,470 @@
   "status": true,
   "price": 13000,
   "image": "https://doc-be.erpn.us/images/1646973092290.jpg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "623b29aee975e3fc0c2cad38"
+  },
+  "productId": "SEMICOLON-005",
+  "name": "Americano Black Coffee",
+  "description": "Biji kopi hitam asli dengan rasa khas Americano",
+  "category": {
+    "$oid": "623b21bae975e3fc0c2cacf3"
+  },
+  "stock": 10,
+  "status": true,
+  "price": 13000,
+  "image": "https://doc-be.erpn.us/images/1648044462594.jpg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "623b2c3ce975e3fc0c2cad58"
+  },
+  "productId": "SEMICOLON-006",
+  "name": "Beef Taco",
+  "description": "Taco dengan perpaduan daging sapi",
+  "category": {
+    "$oid": "6220ec05c7358f78107dcb59"
+  },
+  "stock": 5,
+  "status": true,
+  "price": 25000,
+  "image": "https://doc-be.erpn.us/images/1648045116856.png",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "623b2c81e975e3fc0c2cad5d"
+  },
+  "productId": "SEMICOLON-007",
+  "name": "Cake",
+  "description": "Roti Tart dengan cream manis",
+  "category": {
+    "$oid": "6220ec05c7358f78107dcb59"
+  },
+  "stock": 8,
+  "status": true,
+  "price": 50000,
+  "image": "https://doc-be.erpn.us/images/1648045185280.jpg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "623b2cd0e975e3fc0c2cad70"
+  },
+  "productId": "SEMICOLON-008",
+  "name": "Cappucino",
+  "description": "Terbuat dari biji kopi pilihan",
+  "category": {
+    "$oid": "623b21bae975e3fc0c2cacf3"
+  },
+  "stock": 0,
+  "status": false,
+  "price": 10000,
+  "image": "https://doc-be.erpn.us/images/1648045264431.jpg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "623b2d23e975e3fc0c2cad7a"
+  },
+  "productId": "SEMICOLON-009",
+  "name": "Jus Alpukat",
+  "description": "Jus Alpukat dengan susu kental manis",
+  "category": {
+    "$oid": "623b21bfe975e3fc0c2cacf6"
+  },
+  "stock": 15,
+  "status": true,
+  "price": 15000,
+  "image": "https://doc-be.erpn.us/images/1648045347853.jpg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "623b2d5be975e3fc0c2cad7f"
+  },
+  "productId": "SEMICOLON-010",
+  "name": "Hamburger",
+  "description": "Hamburger dengan isian daging, sayuran serta mayonaise dan saus tomat",
+  "category": {
+    "$oid": "623ec2241a645ac922dd782f"
+  },
+  "stock": 10,
+  "status": true,
+  "price": 20000,
+  "image": "https://doc-be.erpn.us/images/1648045403714.jpg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "623b2dcde975e3fc0c2cad86"
+  },
+  "productId": "SEMICOLON-011",
+  "name": "Latte",
+  "description": "Kopi Latte",
+  "category": {
+    "$oid": "6220ec05c7358f78107dcb59"
+  },
+  "stock": 20,
+  "status": true,
+  "price": 10000,
+  "image": "https://doc-be.erpn.us/images/1648045517118.jpg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "623b2e35e975e3fc0c2cad93"
+  },
+  "productId": "SEMICOLON-012",
+  "name": "Lemon Splash",
+  "description": "Lemon splash segar",
+  "category": {
+    "$oid": "623b21bfe975e3fc0c2cacf6"
+  },
+  "stock": 6,
+  "status": true,
+  "price": 10000,
+  "image": "https://doc-be.erpn.us/images/1648045621361.jpg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "623b2e6ae975e3fc0c2cad98"
+  },
+  "productId": "SEMICOLON-013",
+  "name": "Pizza",
+  "description": "Pizza dengan isian daging, paprika, dan sayuran",
+  "category": {
+    "$oid": "623ec2241a645ac922dd782f"
+  },
+  "stock": 10,
+  "status": true,
+  "price": 35000,
+  "image": "https://doc-be.erpn.us/images/1648045674175.jpg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "623b2ebae975e3fc0c2cada7"
+  },
+  "productId": "SEMICOLON-014",
+  "name": "Sandwich",
+  "description": "Roti isi dengan daging iris",
+  "category": {
+    "$oid": "623ec2241a645ac922dd782f"
+  },
+  "stock": 6,
+  "status": true,
+  "price": 20000,
+  "image": "https://doc-be.erpn.us/images/1648045754916.jpg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "623b2eece975e3fc0c2cadac"
+  },
+  "productId": "SEMICOLON-016",
+  "name": "Steak",
+  "description": "Steak daging tebal yang di grill",
+  "category": {
+    "$oid": "623ec2241a645ac922dd782f"
+  },
+  "stock": 5,
+  "status": true,
+  "price": 50000,
+  "image": "https://doc-be.erpn.us/images/1648045804022.jpg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "623b2eede975e3fc0c2cadb0"
+  },
+  "productId": "SEMICOLON-017",
+  "name": "Espresso",
+  "description": "",
+  "category": {
+    "$oid": "623b21bae975e3fc0c2cacf3"
+  },
+  "stock": 10,
+  "status": true,
+  "price": 25000,
+  "image": "https://doc-be.erpn.us/images/1648045805428.jpg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "623b3149e975e3fc0c2cadd0"
+  },
+  "productId": "SEMICOLON-018",
+  "name": "Frappuccino",
+  "description": "",
+  "category": {
+    "$oid": "6220ec05c7358f78107dcb59"
+  },
+  "stock": 20,
+  "status": true,
+  "price": 35000,
+  "image": "https://doc-be.erpn.us/images/1648046409015.jpg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "623b34cbe975e3fc0c2caddd"
+  },
+  "productId": "SEMICOLON-019",
+  "name": "Mocha Latte Iced",
+  "description": "",
+  "category": {
+    "$oid": "623b21bae975e3fc0c2cacf3"
+  },
+  "stock": 10,
+  "status": true,
+  "price": 20000,
+  "image": "https://doc-be.erpn.us/images/1648047307926.jpg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "623b3a9ae975e3fc0c2cae11"
+  },
+  "productId": "SEMICOLON-020",
+  "name": "Vanilla latte",
+  "description": "",
+  "category": {
+    "$oid": "623b21bae975e3fc0c2cacf3"
+  },
+  "stock": 10,
+  "status": true,
+  "price": 25000,
+  "image": "https://doc-be.erpn.us/images/1648048794400.jpg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "623b3af1e975e3fc0c2cae16"
+  },
+  "productId": "SEMICOLON-021",
+  "name": "Hot Chocolate Coffee",
+  "description": "",
+  "category": {
+    "$oid": "623b21bae975e3fc0c2cacf3"
+  },
+  "stock": 5,
+  "status": true,
+  "price": 15000,
+  "image": "https://doc-be.erpn.us/images/1648048881396.jpg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "623b3d19e975e3fc0c2cae22"
+  },
+  "productId": "SEMICOLON-022",
+  "name": "Hot Caramel Macchiato",
+  "description": "",
+  "category": {
+    "$oid": "623b21bae975e3fc0c2cacf3"
+  },
+  "stock": 15,
+  "status": true,
+  "price": 20000,
+  "image": "https://doc-be.erpn.us/images/1648049433300.jpg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "623b3e4de975e3fc0c2cae2c"
+  },
+  "productId": "SEMICOLON-023",
+  "name": "Piccolo Latte Coffee",
+  "description": "",
+  "category": {
+    "$oid": "623b21bae975e3fc0c2cacf3"
+  },
+  "stock": 10,
+  "status": true,
+  "price": 18000,
+  "image": "https://doc-be.erpn.us/images/1648049740998.jpg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "623b4121e975e3fc0c2cae4e"
+  },
+  "productId": "SEMICOLON-024",
+  "name": "Hot Mocha Latte ",
+  "description": "",
+  "category": {
+    "$oid": "623b21bae975e3fc0c2cacf3"
+  },
+  "stock": 10,
+  "status": true,
+  "price": 18000,
+  "image": "https://doc-be.erpn.us/images/1648050465166.jpg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "623b429be975e3fc0c2cae56"
+  },
+  "productId": "SEMICOLON-025",
+  "name": "Hot Coffee Latte",
+  "description": "",
+  "category": {
+    "$oid": "623b21bae975e3fc0c2cacf3"
+  },
+  "stock": 10,
+  "status": true,
+  "price": 15000,
+  "image": "https://doc-be.erpn.us/images/1648050843841.jpg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "623b4341e975e3fc0c2cae61"
+  },
+  "productId": "SEMICOLON-026",
+  "name": "Coffee Latte Iced",
+  "description": "",
+  "category": {
+    "$oid": "623b21bae975e3fc0c2cacf3"
+  },
+  "stock": 10,
+  "status": true,
+  "price": 18000,
+  "image": "https://doc-be.erpn.us/images/1648051009727.jpg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "623b45f0e975e3fc0c2cae68"
+  },
+  "productId": "SEMICOLON-027",
+  "name": "Caramel Creamy Latte",
+  "description": "",
+  "category": {
+    "$oid": "623b21bae975e3fc0c2cacf3"
+  },
+  "stock": 10,
+  "status": true,
+  "price": 24000,
+  "image": "https://doc-be.erpn.us/images/1648051696822.jpeg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "623b4669e975e3fc0c2cae6d"
+  },
+  "productId": "SEMICOLON-028",
+  "name": "Cinnamon Dolce Latte",
+  "description": "",
+  "category": {
+    "$oid": "623b21bae975e3fc0c2cacf3"
+  },
+  "stock": 10,
+  "status": true,
+  "price": 20000,
+  "image": "https://doc-be.erpn.us/images/1648051817219.jpg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "623b46c4e975e3fc0c2cae77"
+  },
+  "productId": "SEMICOLON-029",
+  "name": "Hazelnutt Latte",
+  "description": "",
+  "category": {
+    "$oid": "623b21bae975e3fc0c2cacf3"
+  },
+  "stock": 10,
+  "status": true,
+  "price": 24000,
+  "image": "https://doc-be.erpn.us/images/1648051908229.jpg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "623b4748e975e3fc0c2cae7c"
+  },
+  "productId": "SEMICOLON-030",
+  "name": "Es Kopi Susu",
+  "description": "",
+  "category": {
+    "$oid": "623b21bae975e3fc0c2cacf3"
+  },
+  "stock": 10,
+  "status": true,
+  "price": 18000,
+  "image": "https://doc-be.erpn.us/images/1648052040466.jpg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "623c1cafaf1563c8e2b51d25"
+  },
+  "productId": "SEMICOLON-031",
+  "name": "Japanese Fried Rice",
+  "description": "",
+  "category": {
+    "$oid": "623ec2241a645ac922dd782f"
+  },
+  "stock": 15,
+  "status": true,
+  "price": 17000,
+  "image": "https://doc-be.erpn.us/images/1648106671168.jpg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "623eb9061a645ac922dd77a1"
+  },
+  "productId": "SEMICOLON-032",
+  "name": "Japanese Curry Chicken",
+  "description": "",
+  "category": {
+    "$oid": "623ec2241a645ac922dd782f"
+  },
+  "stock": 10,
+  "status": true,
+  "price": 35000,
+  "image": "https://doc-be.erpn.us/images/1648277766756.jpg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "623ebaca1a645ac922dd77ba"
+  },
+  "productId": "SEMICOLON-033",
+  "name": "Tahu Walik",
+  "description": "",
+  "category": {
+    "$oid": "6220ec05c7358f78107dcb59"
+  },
+  "stock": 20,
+  "status": true,
+  "price": 12000,
+  "image": "https://doc-be.erpn.us/images/1648278218807.jpg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "623ebaf41a645ac922dd77bf"
+  },
+  "productId": "SEMICOLON-034",
+  "name": "Tahu Petis",
+  "description": "",
+  "category": {
+    "$oid": "6220ec05c7358f78107dcb59"
+  },
+  "stock": 20,
+  "status": true,
+  "price": 12000,
+  "image": "https://doc-be.erpn.us/images/1648278314277.jpg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "623ebb811a645ac922dd77cb"
+  },
+  "productId": "SEMICOLON-035",
+  "name": "Tahu Cripsy",
+  "description": "",
+  "category": {
+    "$oid": "6220ec05c7358f78107dcb59"
+  },
+  "stock": 20,
+  "status": true,
+  "price": 12000,
+  "image": "https://doc-be.erpn.us/images/1648278401495.jpg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "623ebbeb1a645ac922dd77d0"
+  },
+  "productId": "SEMICOLON-036",
+  "name": "Ayam Geprek",
+  "description": "",
+  "category": {
+    "$oid": "623ec2241a645ac922dd782f"
+  },
+  "stock": 20,
+  "status": true,
+  "price": 15000,
+  "image": "https://doc-be.erpn.us/images/1648278507737.jpg",
   "__v": 0
 }]

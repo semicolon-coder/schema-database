@@ -2,12 +2,24 @@
   "_id": {
     "$oid": "6220ec05c7358f78107dcb59"
   },
-  "name": "Snack",
+  "name": "Camilan",
   "__v": 0
 },{
   "_id": {
-    "$oid": "622a0ce77c568fc9b1b506fd"
+    "$oid": "623b21bae975e3fc0c2cacf3"
   },
-  "name": "Minuman",
+  "name": "Kopi",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "623b21bfe975e3fc0c2cacf6"
+  },
+  "name": "Non-Kopi",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "623ec2241a645ac922dd782f"
+  },
+  "name": "Makanan Berat",
   "__v": 0
 }]

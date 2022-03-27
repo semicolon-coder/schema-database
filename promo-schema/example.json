@@ -1,31 +1,31 @@
 [{
   "_id": {
-    "$oid": "622a1df39e520eb64384e077"
+    "$oid": "623de288af1563c8e2b51ec3"
   },
-  "name": "Brady Riggs",
-  "discountValue": 3000,
+  "name": "Grand Opening TITIKOMA",
+  "discountValue": 25000,
   "status": false,
-  "code": "APRARI23",
+  "code": "GRANDOPENING",
   "startDate": {
-    "$date": "1982-09-14T17:00:00Z"
+    "$date": "2022-03-22T17:00:00Z"
   },
   "expiryDate": {
-    "$date": "2011-03-07T17:00:00Z"
+    "$date": "2022-03-29T17:00:00Z"
   },
   "__v": 0
 },{
   "_id": {
-    "$oid": "622a2374641faee5f62eaa5d"
+    "$oid": "623df1ea4858c90f1b2b9c5b"
   },
-  "name": "Jermaine Harding",
-  "discountValue": 123123123,
+  "name": "17 Agustus",
+  "discountValue": 10000,
   "status": true,
-  "code": "Laborum consequatur",
+  "code": "AGUSTUSAN",
   "startDate": {
-    "$date": "2016-07-15T17:00:00Z"
+    "$date": "2022-03-24T17:00:00Z"
   },
   "expiryDate": {
-    "$date": "2010-04-28T17:00:00Z"
+    "$date": "2022-03-26T17:00:00Z"
   },
   "__v": 0
 }]

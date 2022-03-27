@@ -34,18 +34,21 @@ const orderSchema = new mongoose.Schema({
             }
         }
     }],
-    price: {
+    historyPromo: {
+        type: mongoose.Schema.Types.ObjectId,
+        ref: 'promo'
+    },
+    subtotal: {
         type: Number,
         required: true
     },
     discount: {
-      type: Number,
-      default: 0
+        type: Number,
     },
     tax: {
         type: Number,
     },
-    totalPrice: {
+    total: {
         type: Number,
     },
     customer: {
